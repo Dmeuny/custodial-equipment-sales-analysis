@@ -1,4 +1,4 @@
-# custodial-equipment-sales-analysis
+[channel_performance.csv](https://github.com/user-attachments/files/22055008/channel_performance.csv)[state_kpis.csv](https://github.com/user-attachments/files/22054999/state_kpis.csv)# custodial-equipment-sales-analysis
 Portfolio project: sales performance analysis by state, channel, and product subcategory (38k+ records).
 
 
@@ -62,10 +62,14 @@ Cities: Dallas and New York are strong profit centers, while smaller cities unde
 
 📊 Visuals
 Top 10 States by Revenue
+<img width="1600" height="1200" alt="top10_states_revenue" src="https://github.com/user-attachments/assets/74aa976c-6eeb-4a49-8765-7079a2ca98b5" />
 
 Monthly Revenue Trend
+<img width="2000" height="1000" alt="monthly_revenue_trend" src="https://github.com/user-attachments/assets/daa7795d-068e-4014-9834-c35cd964afe6" />
+
 
 Month-over-Month % Growth
+<img width="2000" height="800" alt="monthly_growth" src="https://github.com/user-attachments/assets/141a094f-963c-460f-a685-49c916bbf89d" />
 
 
 

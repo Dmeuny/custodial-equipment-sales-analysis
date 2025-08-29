@@ -1,4 +1,4 @@
-[channel_performance.csv](https://github.com/user-attachments/files/22055008/channel_performance.csv)[state_kpis.csv](https://github.com/user-attachments/files/22054999/state_kpis.csv)# custodial-equipment-sales-analysis
+custodial-equipment-sales-analysis
 Portfolio project: sales performance analysis by state, channel, and product subcategory (38k+ records).
 
 

@@ -23,13 +23,17 @@ Sales: Units_Sold, Unit_Price, Revenue, Profit, Margin_Percent
 
 Targets: Target_Units, Target_Revenue
 
-Geography: State, City, Latitude, Longitude
+Geography: 
+State, City, Latitude, Longitude
 
-Time: Date, Month
+Time: 
+Date, Month
 
-Channels: Sales_Channel (Direct, Distributor, Online)
+Channels: 
+Sales_Channel (Direct, Distributor, Online)
 
-Product taxonomy: Product_Category, Product_Subcategory
+Product taxonomy: 
+Product_Category, Product_Subcategory
 
 
 
@@ -82,25 +86,29 @@ Custodial_Sales_USA.ipynb
 custodial_equipment_sales_USA_realistic.csv
  → dataset (simulated)
 
+
+[custodial_equipment_sales_USA_realistic.csv](https://github.com/user-attachments/files/22055301/custodial_equipment_sales_USA_realistic.csv)
+
+
 outputs/ → exported CSVs & charts
 
-state_kpis.csv
+[state_kpis.csv](https://github.com/user-attachments/files/22055027/state_kpis.csv)
 
-channel_performance.csv
 
-subcategory_profit.csv
+[channel_performance.csv](https://github.com/user-attachments/files/22055024/channel_performance.csv)
 
-monthly_revenue.csv
 
-top10_cities_profit.csv
+[subcategory_profit.csv](https://github.com/user-attachments/files/22055030/subcategory_profit.csv)
 
-bottom10_cities_profit.csv
 
-top10_states_revenue.png
+[monthly_revenue.csv](https://github.com/user-attachments/files/22055032/monthly_revenue.csv)
 
-monthly_revenue_trend.png
 
-monthly_growth.png
+
+[top10_cities_profit.csv](https://github.com/user-attachments/files/22055035/top10_cities_profit.csv)
+
+
+[bottom10_cities_profit.csv](https://github.com/user-attachments/files/22055065/bottom10_cities_profit.csv)
 
 
 

@@ -1,4 +1,6 @@
-**custodial-equipment-sales-analysis** <br>
+**custodial-equipment-sales-analysis** 
+
+<br>
 
 **Portfolio project:** sales performance analysis by state, channel, and product subcategory (38k+ records).
 

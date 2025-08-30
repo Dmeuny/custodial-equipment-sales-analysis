@@ -59,7 +59,7 @@ Which cities are top and bottom performers by profit?
 
 **Geography:** California and Texas lead in total revenue, but several Midwest states missed their revenue targets (<95% attainment).
 
-**Channels:** Direct Sales delivers the most revenue, while Distributor margins are significantly lower — suggesting discounting.
+**Channels:** Direct Sales delivers the most revenue, while Distributor margins are significantly lower, suggesting discounting.
 
 **Products:** Walk-Behind Scrubbers dominate profit contribution, while smaller categories show higher % margins.
 

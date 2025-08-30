@@ -1,23 +1,25 @@
-custodial-equipment-sales-analysis
+**custodial-equipment-sales-analysis** <br>
 
-Portfolio project: sales performance analysis by state, channel, and product subcategory (38k+ records).
-
-
-
-Goal: Analyze US custodial equipment sales by state, channel, and product category. Compare actual revenue to targets, identify top/bottom performers, and highlight key trends for management decision-making.
+**Portfolio project:** sales performance analysis by state, channel, and product subcategory (38k+ records).
 
 
 
+**Goal:** Analyze US custodial equipment sales by state, channel, and product category. Compare actual revenue to targets, identify top/bottom performers, and highlight key trends for management decision-making.
 
-📂 Dataset
+
+<br>
+
+📂 **Dataset**
 
 Rows: ~38,880
 
 Columns: 19
 
-Coverage: All 50 US states + DC, multiple cities
+Coverage: All 50 US states + DC, multiple cities  
 
-Metrics:
+<br>
+
+**Metrics:**
 
 Sales: Units_Sold, Unit_Price, Revenue, Profit, Margin_Percent
 
@@ -35,9 +37,9 @@ Sales_Channel (Direct, Distributor, Online)
 Product taxonomy: 
 Product_Category, Product_Subcategory
 
+<br>
 
-
-❓ Business Questions Answered
+**Business Questions Answered**
 
 Which states generated the most revenue, and how did they perform vs target?
 
@@ -49,9 +51,9 @@ What does the monthly revenue trend look like, and how is growth changing month-
 
 Which cities are top and bottom performers by profit?
 
+<br>
 
-
-🔑 Key Findings
+**🔑 Key Findings**
 
 Geography: California and Texas lead in total revenue, but several Midwest states missed their revenue targets (<95% attainment).
 
@@ -63,9 +65,11 @@ Trends: Revenue peaked in Q3 but slowed into Q4 — Q1 pipeline building will be
 
 Cities: Dallas and New York are strong profit centers, while smaller cities underperform consistently.
 
+<br>
+
+**📊 Visuals**
 
 
-📊 Visuals
 Top 10 States by Revenue
 <img width="1600" height="1200" alt="top10_states_revenue" src="https://github.com/user-attachments/assets/74aa976c-6eeb-4a49-8765-7079a2ca98b5" />
 
@@ -76,19 +80,21 @@ Monthly Revenue Trend
 Month-over-Month % Growth
 <img width="2000" height="800" alt="monthly_growth" src="https://github.com/user-attachments/assets/141a094f-963c-460f-a685-49c916bbf89d" />
 
+<br>
 
-
-📁 Repo Contents
+**📁 Repo Contents**
 
 Custodial_Sales_USA.ipynb
  → Jupyter notebook with full analysis & charts
 
-custodial_equipment_sales_USA_realistic.csv
- → dataset (simulated)
+<br>
 
+ **→ Full dataset (simulated)**
 
+ 
 [custodial_equipment_sales_USA_realistic.csv](https://github.com/user-attachments/files/22055301/custodial_equipment_sales_USA_realistic.csv)
 
+<br>
 
 outputs/ → exported CSVs & charts
 
@@ -110,9 +116,9 @@ outputs/ → exported CSVs & charts
 
 [bottom10_cities_profit.csv](https://github.com/user-attachments/files/22055065/bottom10_cities_profit.csv)
 
+<br>
 
-
-⚙️ Tools Used
+**⚙️ Tools Used**
 
 Python 3.11
 
@@ -122,9 +128,9 @@ matplotlib → data visualization
 
 Jupyter Notebook → analysis environment
 
+<br>
 
-
-🛠️ Skills Demonstrated
+**🛠️ Skills Demonstrated**
 
 Data Cleaning & Preparation – handled null values, stripped whitespace, standardized text columns
 

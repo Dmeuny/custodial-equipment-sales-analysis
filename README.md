@@ -86,15 +86,12 @@ Which cities are top and bottom performers by profit?
 
 **📁 Repo Contents**
 
-Custodial_Sales_USA.ipynb
- → Jupyter notebook with full analysis & charts
+**Jupyter notebook with full analysis & charts** →
+[Custodial_Sales_USA.ipynb](https://github.com/user-attachments/files/22055431/Custodial_Sales_USA.ipynb)
 
 <br>
 
- **→ Full dataset (simulated)**
-
- 
-[custodial_equipment_sales_USA_realistic.csv](https://github.com/user-attachments/files/22055301/custodial_equipment_sales_USA_realistic.csv)
+ **Full dataset (simulated)** → [custodial_equipment_sales_USA_realistic.csv](https://github.com/user-attachments/files/22055301/custodial_equipment_sales_USA_realistic.csv)
 
 <br>
 
